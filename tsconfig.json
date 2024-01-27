@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist"
+    },
+    "include": ["src/**/*.ts", "hapi-pagination.d.ts", "types.d.ts", "src/utils/wxBizDataCrypt.js"],
+    "exclude": ["node_modules"]
+}
