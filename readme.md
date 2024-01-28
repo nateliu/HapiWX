@@ -12,3 +12,8 @@ pnpm install
 ```
 pnpm dev
 ```
+
+## Visit
+```
+http://localhost:3000
+```
